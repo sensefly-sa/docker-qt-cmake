@@ -1,6 +1,6 @@
 FROM sensefly/qt:xenial-5.11.2
 
-ENV CMAKE_VERSION 3.11.0
+ENV CMAKE_VERSION 3.12.2
 
 WORKDIR /usr/src
 
